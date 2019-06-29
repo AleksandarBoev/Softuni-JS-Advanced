@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="429263dc-bdac-4fde-87e6-867e496be535" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../04.dom-manipulations-exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04.dom-manipulations-exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04.dom-manipulations-exercise/tasks/t08-encode-and-decode-messages/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04.dom-manipulations-exercise/tasks/t08-encode-and-decode-messages/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04.dom-manipulations-exercise/tasks/t09-distance-converter/distanceConverter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04.dom-manipulations-exercise/tasks/t09-distance-converter/distanceConverter.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tasks/t07-add-subtract.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo/js-file.js" />
+        <option value="$PROJECT_DIR$/demo/calculator.js" />
+        <option value="$PROJECT_DIR$/demo/main.js" />
+        <option value="$PROJECT_DIR$/functions/math-functions.js" />
+        <option value="$PROJECT_DIR$/demo/second-test.js" />
+        <option value="$PROJECT_DIR$/demo/first-test.js" />
+        <option value="$PROJECT_DIR$/tests/calculator-tests.js" />
+        <option value="$PROJECT_DIR$/export/calculator.js" />
+        <option value="$PROJECT_DIR$/tasks/t02-playing-cards.js" />
+        <option value="$PROJECT_DIR$/tasks/t03-deck-of-cards.js" />
+        <option value="$PROJECT_DIR$/tasks/test-test.js" />
+        <option value="$PROJECT_DIR$/tasks/t04-sum-of-numbers.js" />
+        <option value="$PROJECT_DIR$/tasks/t05-check-for-symmetry.js" />
+        <option value="$PROJECT_DIR$/tasks/t06-rgb-to-hex.js" />
+        <option value="$PROJECT_DIR$/t07-add-subtract.js" />
+        <option value="$PROJECT_DIR$/tasks/t01-sub-sum.js" />
+        <option value="$PROJECT_DIR$/tasks/t07-add-subtract.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1170" />
+    <option name="y" value="135" />
+    <option name="width" value="1440" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="05.unit-testing-and-modules-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05.unit-testing-and-modules-lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05.unit-testing-and-modules-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05.unit-testing-and-modules-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tasks/t07-add-subtract.js" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AleksandarUser\Programming\GitHubRepositories\Softuni-JS-Advanced\05.unit-testing-and-modules-lab\tasks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.task-07-create-calculator-test">
+    <configuration name="t02-playing-cards.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="t02-playing-cards.js" working-dir="$PROJECT_DIR$/tasks">
+      <method v="2" />
+    </configuration>
+    <configuration name="t03-deck-of-cards.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="t03-deck-of-cards.js" working-dir="$PROJECT_DIR$/tasks">
+      <method v="2" />
+    </configuration>
+    <configuration name="t04-sum-of-numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="t04-sum-of-numbers.js" working-dir="$PROJECT_DIR$/tasks">
+      <method v="2" />
+    </configuration>
+    <configuration name="&quot;isSymmetric&quot; function tests.when symmetric array of objects, return &quot;true&quot;" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>node</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>require</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/tasks/t05-check-for-symmetry.js</test-file>
+      <test-names>
+        <name value="&quot;isSymmetric&quot; function tests" />
+        <name value="when symmetric array of objects, return &quot;true&quot;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner">
+      <node-interpreter>node</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>require</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/demo</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="calculator-tests" type="mocha-javascript-test-runner">
+      <node-interpreter>node</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/calculator-tests.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="task-04-test" type="mocha-javascript-test-runner">
+      <node-interpreter>node</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tasks/t04-sum-of-numbers.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="task-06-rgb-to-hex-test" type="mocha-javascript-test-runner">
+      <node-interpreter>node</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tasks/t06-rgb-to-hex.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="task-07-create-calculator-test" type="mocha-javascript-test-runner">
+      <node-interpreter>node</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tasks/t07-add-subtract.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks\t04-sum-of-numbers.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>node</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tasks/t04-sum-of-numbers.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.task-04-test" />
+      <item itemvalue="Mocha.task-06-rgb-to-hex-test" />
+      <item itemvalue="Mocha.task-07-create-calculator-test" />
+      <item itemvalue="Mocha.calculator-tests" />
+      <item itemvalue="Mocha.tasks\t04-sum-of-numbers.js" />
+      <item itemvalue="Mocha.&quot;isSymmetric&quot; function tests.when symmetric array of objects, return &quot;true&quot;" />
+      <item itemvalue="Node.js.t02-playing-cards.js" />
+      <item itemvalue="Node.js.t03-deck-of-cards.js" />
+      <item itemvalue="Node.js.t04-sum-of-numbers.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.&quot;isSymmetric&quot; function tests.when symmetric array of objects, return &quot;true&quot;" />
+        <item itemvalue="Node.js.t04-sum-of-numbers.js" />
+        <item itemvalue="Mocha.tasks\t04-sum-of-numbers.js" />
+        <item itemvalue="Node.js.t03-deck-of-cards.js" />
+        <item itemvalue="Node.js.t02-playing-cards.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="429263dc-bdac-4fde-87e6-867e496be535" name="Default Changelist" comment="" />
+      <created>1561539376112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561539376112</updated>
+      <workItem from="1561539386487" duration="4946000" />
+      <workItem from="1561705565732" duration="835000" />
+      <workItem from="1561706468993" duration="16017000" />
+      <workItem from="1561818141393" duration="6085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="task-06-rgb-to-hex-test - 2019.06.29 at 18h 06m 45s.xml">
+      <configuration name="task-06-rgb-to-hex-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 02m 43s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 04m 27s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 04m 41s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 05m 04s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 05m 12s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 06m 47s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 19m 12s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 21m 18s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="task-07-create-calculator-test - 2019.06.29 at 19h 24m 05s.xml">
+      <configuration name="task-07-create-calculator-test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27883000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1150033" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3711048" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo/js-file.js" />
+    <entry file="file://$PROJECT_DIR$/demo/calculator.js" />
+    <entry file="file://$PROJECT_DIR$/demo/main.js" />
+    <entry file="file://$PROJECT_DIR$/demo/second-test.js" />
+    <entry file="file://$PROJECT_DIR$/demo/first-test.js" />
+    <entry file="file://$PROJECT_DIR$/functions/math-functions.js" />
+    <entry file="file://$PROJECT_DIR$/export/calculator.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/calculator-tests.js" />
+    <entry file="file://$PROJECT_DIR$/tasks/t02-playing-cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/t03-deck-of-cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/test-test.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/12.2.0/core-modules/internal/timers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="438" column="20" selection-start-line="438" selection-start-column="20" selection-end-line="438" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/t04-sum-of-numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/t05-check-for-symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/t06-rgb-to-hex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="43" column="44" lean-forward="true" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/t01-sub-sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/t07-add-subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
