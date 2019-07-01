@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    const simpleObj = {
+        field1: 'Pesho',
+        field2: 22,
+        classicFunc: function() {
+            console.log(this);
+        },
+        fatArrowFunc: () => {
+            console.log(this);
+        },
+    };
+
+    console.log('This is from the html page!');
+    const classicFuncThis = simpleObj.classicFunc(); //prints "simpleObj" info
+    const arrowFuncThis = simpleObj.fatArrowFunc(); //prints "window" info, why?
+
+    class RandomClass {
+        constructor(name, age) {
+            this.name = name;
+            this.age = age;
+        }
+
+        classicFunc = function () {
+            console.log(this);
+        };
+
+        fatArrowFunc = () => {
+            console.log(this);
+        }
+    }
+
+    const objectFromClass = new RandomClass('Gosho', 33);
+    objectFromClass.classicFunc(); //prints "objectFromClass" info
+    objectFromClass.fatArrowFunc(); //prints "objectFromClass" info
+
+    const fatArrowFuncCreatedOutsideOfClass = () => {
+        console.log(this);
+    };
+
+    objectFromClass.externalFatArrowFunc = fatArrowFuncCreatedOutsideOfClass;
+    objectFromClass.externalFatArrowFunc(); //prints "window" info
+</script>
+</body>
+</html>
