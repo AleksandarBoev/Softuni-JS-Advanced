@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="num1" />
+<input type="text" id="num2" />
+<input type="text" id="result" readonly />
+<br>
+<button id="sumButton" onclick="calculator.add()">Sum</button>
+<button id="subtractButton" onclick="calculator.subtract()">Subtract</button>
+
+<script src="sum.js"></script>
+<script>
+    console.log('Working...');
+    calculator.init('#num1', '#num2', '#result');
+    console.log('Done!');
+</script>
+</body>
+</html>
